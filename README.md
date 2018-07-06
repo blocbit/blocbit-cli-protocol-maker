@@ -1,4 +1,4 @@
-# neo-cli-protocol-maker
+# blocbit-cli-protocol-maker
 
 One click (if you do it right) to update `protocol.json`
 
@@ -19,7 +19,7 @@ One click (if you do it right) to update `protocol.json`
 ### 2. Run the Package
 Run the script `python make_protocol.py`
 
-You should see a new `protocol.json` file in the same directory as the script. Now, copy and replace the `protocol.json` in your neo-cli directory with this file.
+You should see a new `protocol.json` file in the same directory as the script. Now, copy and replace the `protocol.json` in your blocbit-cli directory with this file.
 
 ### 3. That's it!
-You can run neo-cli normally. It should automatically connect to live nodes.
+You can run blocbit-cli normally. It should automatically connect to live nodes.
